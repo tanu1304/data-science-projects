@@ -9,7 +9,7 @@ This project focuses on **cross-domain caricature recognition** using deep learn
 
 Caricatures often contain exaggerated facial features and artistic distortions, making identity recognition more challenging than conventional face recognition. This project explores the use of pretrained facial feature representations, data augmentation, embedding classification, and cosine similarity to address this challenge.
 
-## h kya Objectives
+##  Objectives
 
 * Recognize identities from caricature images using facial embeddings.
 * Leverage pretrained deep learning models for facial feature extraction.
